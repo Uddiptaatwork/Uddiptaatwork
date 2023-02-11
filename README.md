@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   - Building an NRE pipeline for GW parameter inference
   
 - 🌱 **I’m currently learning** :
+  - Functional analysis
   - Ancient Greek history
   - Adlerian philosophy
  
