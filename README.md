@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💬 **Ask me about** : 
+  - Gravitational wave parameter inference
+  - Neural ratio estimation
+  - Number theory
+  - Medieval history
+  
+- 📫 **How to reach me** :
+  - [Email](u.bhardwaj@uva.nl)
+  - [LinkedIn](https://www.linkedin.com/in/uddipta-bhardwaj-05b752161/) 
+ 
+- 🔭 **I’m currently working on**:
+  - Building an NRE pipeline for GW parameter inference
+  
+- 🌱 **I’m currently learning** :
+  - Ancient Greek history
+  - Adlerian philosophy
+ 
