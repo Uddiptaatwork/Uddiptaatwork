@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Uddipta. I love gravitational waves! 
 
 <!--
 **Uddiptaatwork/Uddiptaatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
