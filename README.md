@@ -20,13 +20,18 @@ Here are some ideas to get you started:
   - Neural ratio estimation
   - Number theory
   - Medieval history
-  
+ 
+- ⚡ **Please check out** :   
+  - [PEREGRINE](https://github.com/undark-lab/peregrine-public)
+  - 🌱 **Peregrine articles**:
+    - [![DOI](https://img.shields.io/badge/DOI-arXiv.2304.02035-brightgreen)](https://arxiv.org/abs/2304.02035)
+
 - 📫 **How to reach me** :
   - [Email](u.bhardwaj@uva.nl)
   - [LinkedIn](https://www.linkedin.com/in/uddipta-bhardwaj-05b752161/) 
  
 - 🔭 **I’m currently working on**:
-  - Building an NRE pipeline for GW parameter inference
+  - Using [peregrine]() for gravitational wave research
   
 - 🌱 **I’m currently learning** :
   - Functional analysis
