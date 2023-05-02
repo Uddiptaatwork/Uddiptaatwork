@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💬 **Ask me about** : 
+- 💬 **I love to talk about** : 
   - Gravitational wave parameter inference
   - Neural ratio estimation
   - Number theory
