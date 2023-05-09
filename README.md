@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Uddipta. I love gravitational waves! 
+I am Uddipta. I love gravitational waves!
 
 <!--
 **Uddiptaatwork/Uddiptaatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Number theory
   - Medieval history
  
-- ⚡ **Please check out** :   
+- ⚡ **Please check out my work** :   
   - [PEREGRINE](https://github.com/undark-lab/peregrine-public)
   - 🌱 **Peregrine articles**:
     - [![DOI](https://img.shields.io/badge/DOI-arXiv.2304.02035-brightgreen)](https://arxiv.org/abs/2304.02035)
