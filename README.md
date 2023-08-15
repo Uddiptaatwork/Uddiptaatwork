@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   - [PEREGRINE](https://github.com/undark-lab/peregrine-public)
   - 🌱 **Peregrine articles**:
     - [![DOI](https://img.shields.io/badge/DOI-arXiv.2304.02035-brightgreen)](https://arxiv.org/abs/2304.02035)
+    - [![DOI](https://img.shields.io/badge/DOI-arXiv.2308.06318-brightgreen)](https://arxiv.org/abs/2308.06318)
+
 
 - 📫 **How to reach me** :
   - [Email](u.bhardwaj@uva.nl)
