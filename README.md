@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     - [![DOI](https://img.shields.io/badge/DOI-arXiv.2304.02035-brightgreen)](https://arxiv.org/abs/2304.02035)
     - [![DOI](https://img.shields.io/badge/DOI-arXiv.2308.06318-brightgreen)](https://arxiv.org/abs/2308.06318)
     - [![DOI](https://img.shields.io/badge/DOI-arXiv.2309.07954-brightgreen)](https://arxiv.org/abs/2309.07954)
-    - ![Static Badge](https://img.shields.io/badge/DOI-pos_sissa_EPSHEP_23-brightgreen?link=https%3A%2F%2Fpos.sissa.it%2F449%2F066)
+    - [![DOI](https://img.shields.io/badge/DOI-pos_sissa_EPSHEP_23-brightgreen)](https://pos.sissa.it/449/066)
 
 
 
