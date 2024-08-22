@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     - [![DOI](https://img.shields.io/badge/DOI-arXiv.2308.06318-brightgreen)](https://arxiv.org/abs/2308.06318)
     - [![DOI](https://img.shields.io/badge/DOI-arXiv.2309.07954-brightgreen)](https://arxiv.org/abs/2309.07954)
     - [![DOI](https://img.shields.io/badge/DOI-pos_sissa_EPSHEP_23-brightgreen)](https://pos.sissa.it/449/066)
-
+    - [![DOI](https://img.shields.io/badge/DOI-arXiv.2408.00832-brightgreen)](https://arxiv.org/abs/2408.00832)
 
 
 - 📫 **How to reach me** :
